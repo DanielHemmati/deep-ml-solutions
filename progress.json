@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T20:23:12.554Z",
+  "generated_at": "2026-10-24T20:23:14.615Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -120,6 +120,41 @@
       "path": "math/0014-orthogonality-and-projections",
       "first_solved_at": "2026-10-22T07:58:37.277Z",
       "last_pushed_at": "2026-10-22T07:58:37.277Z"
+    },
+    "math:13": {
+      "kind": "math",
+      "id": "13",
+      "title": "Solving Linear Systems",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/13",
+      "path": "math/0013-solving-linear-systems",
+      "first_solved_at": "2026-10-23T06:26:20.651Z",
+      "last_pushed_at": "2026-10-23T06:26:20.651Z"
+    },
+    "math:15": {
+      "kind": "math",
+      "id": "15",
+      "title": "Matrix Decompositions: LU and QR",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/15",
+      "path": "math/0015-matrix-decompositions-lu-and-qr",
+      "first_solved_at": "2026-10-23T07:00:38.333Z",
+      "last_pushed_at": "2026-10-23T07:00:38.333Z"
+    },
+    "problem:58": {
+      "kind": "problem",
+      "id": "58",
+      "title": "Gaussian Elimination for Solving Linear Systems",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/58",
+      "path": "problems/0058-gaussian-elimination-for-solving-linear-systems",
+      "first_solved_at": "2026-10-23T08:03:39.214Z",
+      "last_pushed_at": "2026-10-23T08:03:39.214Z",
+      "language": "python",
+      "lines": 1
     }
   }
 }
